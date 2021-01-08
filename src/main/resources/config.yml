@@ -1,0 +1,6 @@
+worlds:
+  world1:
+    commands:
+      - 'player: say helloworld'
+      - 'op: say helloworld'
+      - 'console: say helloworld'
